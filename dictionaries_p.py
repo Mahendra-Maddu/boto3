@@ -1,4 +1,4 @@
-student_pro ={
+student_pro = {
     "name" : "mahi",
     "age"  : "33",
     "class": "X"
